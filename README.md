@@ -1,12 +1,12 @@
-# 📋 Simple Job Tracker
+# Simple Job Tracker
 
 A beginner-friendly, single-file job application tracker that runs completely in your browser without any server or database setup required.
 
-## ✨ Overview
+## Overview
 
 The Simple Job Tracker is a lightweight web application built with pure HTML, CSS, and JavaScript. It helps you manage your job applications with a clean, professional interface while storing all data locally in your browser.
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Download** the HTML file to your computer
 2. **Double-click** the file to open it in your web browser
@@ -14,7 +14,7 @@ The Simple Job Tracker is a lightweight web application built with pure HTML, CS
 
 No installation, no setup, no technical knowledge required!
 
-## 🎯 Key Features
+## Key Features
 
 ### Job Management
 - **Add Applications**: Track company, position, status, salary, location, and notes
@@ -41,7 +41,7 @@ No installation, no setup, no technical knowledge required!
 - **Confirmation Dialogs**: Prevents accidental deletions
 - **Success Messages**: Clear feedback for all actions
 
-## 💻 Technology Stack
+## Technology Stack
 
 ### Frontend Only
 - **HTML5**: Modern semantic markup
@@ -58,13 +58,13 @@ No installation, no setup, no technical knowledge required!
 ## 📱 Browser Compatibility
 
 Works in all modern browsers:
-- ✅ Chrome (recommended)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
-- ✅ Mobile browsers
+-  Chrome (recommended)
+-  Firefox
+-  Safari
+-  Edge
+-  Mobile browsers
 
-## 🗂️ Data Storage
+## Data Storage
 
 ### Local Storage
 - All data stored in your browser's localStorage
@@ -86,7 +86,7 @@ Works in all modern browsers:
 }
 ```
 
-## 🎨 User Interface
+## User Interface
 
 ### Clean Design
 - **Card-based Layout**: Organized sections for easy navigation
@@ -100,7 +100,7 @@ Works in all modern browsers:
 - **Form Styling**: Consistent input styling across all forms
 - **Mobile Optimization**: Touch-friendly interface for mobile devices
 
-## 📊 Features in Detail
+## Features in Detail
 
 ### Application Form
 ```html
@@ -125,7 +125,7 @@ Works in all modern browsers:
 - **Clear Filters**: One-click reset for all filters
 - **Result Summary**: Shows active filters and match count
 
-## 🔧 Customization
+## Customization
 
 ### Easy Modifications
 The single-file structure makes customization simple:
@@ -148,7 +148,7 @@ All CSS is embedded in the HTML file, making it easy to:
 - Add new visual elements
 - Customize responsive breakpoints
 
-## 📋 Usage Examples
+## Usage Examples
 
 ### Adding Your First Job
 1. Fill in the company name and position
@@ -171,7 +171,7 @@ All CSS is embedded in the HTML file, making it easy to:
 3. Update status as you progress through interviews
 4. Delete applications that are no longer relevant
 
-## 🛡️ Data Safety
+## Data Safety
 
 ### Local Storage Benefits
 - **Privacy**: No data leaves your device
@@ -185,7 +185,7 @@ All CSS is embedded in the HTML file, making it easy to:
 - Clear browser data carefully to avoid losing applications
 - Consider bookmarking the file location for easy access
 
-## 🚀 Getting Started Tips
+## Getting Started Tips
 
 ### For Beginners
 1. Start with a few test applications to learn the interface
@@ -199,7 +199,7 @@ All CSS is embedded in the HTML file, making it easy to:
 3. Use notes field for interview feedback and next steps
 4. Review statistics regularly to track your progress
 
-## 🎯 Perfect For
+## Perfect For
 
 ### Individual Users
 - **Job Seekers**: Track applications during active job search
@@ -213,7 +213,7 @@ All CSS is embedded in the HTML file, making it easy to:
 - **Portfolio Projects**: Use as reference for similar applications
 - **Code Learning**: See how localStorage and DOM manipulation work
 
-## 🔍 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -237,7 +237,7 @@ All CSS is embedded in the HTML file, making it easy to:
 - localStorage must be available
 - Modern browser (2020+ recommended)
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 The simple design allows for easy additions:
 - Data export to CSV/PDF
@@ -247,7 +247,7 @@ The simple design allows for easy additions:
 - Advanced analytics
 - Custom status workflows
 
-## 📄 License
+## License
 
 This project is open source and free to use, modify, and distribute for personal and commercial purposes.
 
