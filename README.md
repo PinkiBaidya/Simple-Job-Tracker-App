@@ -55,7 +55,7 @@ No installation, no setup, no technical knowledge required!
 - No internet connection needed
 - No external dependencies
 
-## 📱 Browser Compatibility
+## Browser Compatibility
 
 Works in all modern browsers:
 -  Chrome (recommended)
@@ -104,13 +104,13 @@ Works in all modern browsers:
 
 ### Application Form
 ```html
-✓ Company Name (required)
-✓ Job Position (required)
-✓ Application Status (dropdown)
-✓ Application Date (date picker)
-✓ Expected Salary (optional)
-✓ Location (optional)
-✓ Notes (optional)
+ Company Name (required)
+ Job Position (required)
+ Application Status (dropdown)
+ Application Date (date picker)
+ Expected Salary (optional)
+ Location (optional)
+ Notes (optional)
 ```
 
 ### Status Options
