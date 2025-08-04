@@ -269,7 +269,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>📋 Job Tracker</h1>
+            <h1>Job Tracker</h1>
             <p style="text-align: center;">Track your job applications with advanced search and filtering</p>
         </div>
     </header>
@@ -297,7 +297,7 @@
 
         <!-- Add Job Form -->
         <div class="card">
-            <h2>🚀 Add New Job Application</h2>
+            <h2>Add New Job Application</h2>
             <form id="jobForm">
                 <div class="form-row">
                     <div class="form-group">
@@ -352,7 +352,7 @@
 
         <!-- Advanced Search -->
         <div class="card">
-            <h2>🔍 Advanced Search & Filter</h2>
+            <h2>Advanced Search & Filter</h2>
             <div class="search-box">
                 <input type="text" id="searchInput" placeholder="Search company, position, or notes...">
                 <select id="filterStatus">
@@ -385,7 +385,7 @@
 
         <!-- Job List -->
         <div class="card">
-            <h2>📊 Your Job Applications</h2>
+            <h2>Your Job Applications</h2>
             <div id="jobsList">
                 <div class="loading">Loading jobs...</div>
             </div>
@@ -478,10 +478,10 @@
                             </div>
                         </div>
                         <div class="job-details">
-                            <div><strong>📅 Applied:</strong> ${formatDate(job.date)}</div>
-                            <div><strong>💰 Salary:</strong> ${job.salary || 'Not specified'}</div>
-                            <div><strong>📍 Location:</strong> ${job.location || 'Not specified'}</div>
-                            ${job.notes ? `<div><strong>📝 Notes:</strong> ${job.notes}</div>` : ''}
+                            <div><strong>Applied:</strong> ${formatDate(job.date)}</div>
+                            <div><strong>Salary:</strong> ${job.salary || 'Not specified'}</div>
+                            <div><strong>Location:</strong> ${job.location || 'Not specified'}</div>
+                            ${job.notes ? `<div><strong>Notes:</strong> ${job.notes}</div>` : ''}
                         </div>
                     </div>
                 `;
